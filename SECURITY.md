@@ -1,13 +1,8 @@
 # Security Policy
 
-## Supported Versions
 
-The following versions of this project are
-currently being supported with security updates:
+THIS ANSIBLE ROLE IS NOW BEING MAINTAINED BY @loelkes AT:
 
-![Release](https://img.shields.io/github/v/release/semuconsulting/ansible_octoprint)
-![Release Date](https://img.shields.io/github/release-date/semuconsulting/ansible_octoprint)
+https://github.com/loelkes/ansible-octoprint
 
-## Reporting a Vulnerability
-
-To report a potential security vulnerability, please raise an [Issue](https://github.com/semuconsulting/ansible_octoprint/issues) using the template provided.
+PLEASE REFER ALL QUERIES, PULL REQUESTS AND BUG REPORTS TO THIS REPOSITORY
